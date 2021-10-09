@@ -6,10 +6,7 @@ h1 {
     color: #002642;
 }
 
-nav {
+nav a {
     border: 2px solid #e5dada;
-}
-
-nav {
-    background-color: #e5dada;
-}
+    background-color: #e5dada; 
+}   
